@@ -1,0 +1,14 @@
+Font Stack Tester
+=================
+
+Currently it's a useless and messy demo in JavaScript, but eventually I want to 
+turn this into a handy bookmarklet.
+
+Basically, on loading it scans through all the font-family CSS elements to get a
+list of all the fonts used on the page. Next it generates a 'remove' button for
+each unique font.
+
+The idea is you could test what a web site looks like when the user doesn't have
+a particular font installed, hence the name 'Font Stack Tester'.
+
+Any comment and assistance gratefully received :)
