@@ -1,8 +1,8 @@
 Font Stack Tester
-=================
+=================  
 
-Currently it's a useless and messy demo in JavaScript, but eventually I want to 
-turn this into a handy bookmarklet.
+Special thanks to "schotest":http://github.com/schotest for turning my idea into
+a nice bookmarklet!
 
 Basically, on loading it scans through all the font-family CSS elements to get a
 list of all the fonts used on the page. Next it generates a 'remove' button for
