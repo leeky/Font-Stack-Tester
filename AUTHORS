@@ -1,0 +1,5 @@
+Font Stack Tester was created and developed by Robert Lee-Cann (leeky). Thanks to the
+wonderful community at GitHub.com for their feedback and contributions, including:
+
+* Stefan Müssig who untangled my concept code and wrote bookmarklet.js out of it.
+* Chris Hess who proved through an iframe/php that it was useful for testing live web sites.
