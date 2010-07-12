@@ -12,3 +12,9 @@ Clicking this button will remove it from the page, simulating that font being un
 Special thanks to Stefan Müssig (http://github.com/schotest) for contributing the bookmarket code.
 
 Any comments and assistance gratefully received.
+
+## How to Install
+
+Copy the contents of bookmarklet.js into your clipboard. Create a new bookmark on your web browser, and paste the clipboard contents into the "location" section.
+
+Now you can visit any web page, and activate Font Stack Tester on it by choosing your newly-created bookmark.
